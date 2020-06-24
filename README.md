@@ -1,7 +1,7 @@
 
 <img src="/reactconf.png" alt="react conf banner" align="center" width="100%" />
 
-# Next.js Boilerplate (ReactConf Iran website 2020)
+# Next.js Boilerplate 
 
 <div  align="center"><strong>Be familiar with next react project </strong></div>
 
