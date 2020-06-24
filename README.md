@@ -64,10 +64,8 @@ The root directory of your application, contain a .env.example file. You should 
 
 1. Make sure that you have Node.js v10 or later and npm v5 or above installed.
 
-2. Clone this repo using `git clone https://github.com/ReactConf/nextjs-boilerplate-reactconf-ir2020.git`
+2. Move to the appropriate directory: `cd <YOUR_PROJECT_NAME>`.<br  />
 
-3. Move to the appropriate directory: `cd <YOUR_PROJECT_NAME>`.<br  />
+3. Run `npm install` in order to install dependencies.<br  />
 
-4. Run `npm install` in order to install dependencies.<br  />
-
-5.At this point you can run `npm start` to see the example app at `http://localhost:4000`. You can easily change this port by changing  the `.env` file ._
+4.At this point you can run `npm start` to see the example app at `http://localhost:4000`. You can easily change this port by changing  the `.env` file ._
